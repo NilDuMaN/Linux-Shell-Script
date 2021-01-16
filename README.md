@@ -7,37 +7,47 @@ Programda tasarlanan menü aşağıdaki gibidir:
 ![Menü](/images/menu.jpeg)
 
 Menü sizden 1-5 arası bir seçim yapmanızı ister.
-1 seçtiğinizde kullanıcı adı ekleme sayfası açılır.
+1 seçtiğinizde kullanıcı adı ekleme sayfası açılır.:
 
 ![Menü](/images/kayıt.jpeg)
 
-Hatasız bir giriş yaptığınız takdirde başarılı bir işlem gerçekleştirmiş olursunuz
+Hatasız bir giriş yaptığınız takdirde başarılı bir işlem gerçekleştirmiş olursunuz:
 
 ![Menü](/images/kayıt_yapma.jpeg)
 
+Hatalı giriş yaptığınız takdirde uyarı sayfası açılacaktır:
+
+![Menü](/images/hatalı_kayıt.jpeg)
 
 2 yi seçtiğinizde arama sayfası açılır.
 
 ![Menü](/images/arama.jpeg)
 
-Hatasız bir giriş yaptığınız takdirde aradığınız kullanıcı açılır.
+Hatasız bir giriş yaptığınız takdirde aradığınız kullanıcı açılır:
 
 ![Menü](/images/kullanıcı_arama.jpeg)
 
+Mevcut olmayan bir kullanıcı kaydı aramasında ise aşağıdaki sayfa ile karşılaşırsınız:
 
-3 ü seçtiğinizde kayıtlı olan tüm kullanıcılıar listelenir.
+![Menü](/images/olmayan_kayıt.jpeg)
+
+Hatalı giriş yaptığınızda ise uyarı sayfası açılacaktır:
+
+![Menü](/images/hatalı_kayıt.jpeg)
+
+3 ü seçtiğinizde kayıtlı olan tüm kullanıcılıar listelenir:
 
 ![Menü](/images/listeleme.jpeg)
 
-4 ü seçtiğinizde silme sayfası aılır
+4 ü seçtiğinizde silme sayfası açılır:
 
 ![Menü](/images/kayıt_silme.jpeg)
 
-Kayıtlı olan bir kullanıcıyı girmediyseniz hata ekranı açılır
+Kayıtlı olan bir kullanıcıyı girmediyseniz hata ekranı açılır:
 
 ![Menü](/images/hatalı_giriş.jpeg)
 
-5 seçeneğini seçtiğinizde çıkış ekranı açılır.
+5 seçeneğini seçtiğinizde çıkış ekranı açılır:
 
 ![Menü](/images/çıkış.jpeg)
 
