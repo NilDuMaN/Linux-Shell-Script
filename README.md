@@ -33,7 +33,7 @@ Mevcut olmayan bir kullanıcı kaydı aramasında ise aşağıdaki sayfa ile kar
 
 Hatalı giriş yaptığınızda ise uyarı sayfası açılacaktır:
 
-![Menü](/images/hatalı_kayıt.jpeg)
+![Menü](/images/arama_hata.jpeg)
 
 3 ü seçtiğinizde kayıtlı olan tüm kullanıcılıar listelenir:
 
