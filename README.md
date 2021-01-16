@@ -5,3 +5,40 @@ Bash script, Unix’de mevcut olan en popüler programlama araçlarından biridi
 Programda tasarlanan menü aşağıdaki gibidir:
 
 ![Menü](/images/menu.jpeg)
+
+Menü sizden 1-5 arası bir seçim yapmanızı ister.
+1 seçtiğinizde kullanıcı adı ekleme sayfası açılır.
+
+![Menü](/images/kayıt.jpeg)
+
+Hatasız bir giriş yaptığınız takdirde başarılı bir işlem gerçekleştirmiş olursunuz
+
+![Menü](/images/kayıt_yapma.jpeg)
+
+
+2 yi seçtiğinizde arama sayfası açılır.
+
+![Menü](/images/arama.jpeg)
+
+Hatasız bir giriş yaptığınız takdirde aradığınız kullanıcı açılır.
+
+![Menü](/images/kullanıcı_arama.jpeg)
+
+
+3 ü seçtiğinizde kayıtlı olan tüm kullanıcılıar listelenir.
+
+![Menü](/images/listeleme.jpeg)
+
+4 ü seçtiğinizde silme sayfası aılır
+
+![Menü](/images/kayıt_silme.jpeg)
+
+Kayıtlı olan bir kullanıcıyı girmediyseniz hata ekranı açılır
+
+![Menü](/images/hatalı_giriş.jpeg)
+
+5 seçeneğini seçtiğinizde çıkış ekranı açılır.
+
+![Menü](/images/çıkış.jpeg)
+
+
